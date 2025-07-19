@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Web-App
-A responsive and user-friendly Tic Tac Toe game built with HTML, CSS, and JavaScript. This project highlights essential web development practices such as DOM manipulation, event handling, and conditional logic.
+A classic Tic Tac Toe game implemented using only HTML, CSS, and JavaScript. This project demonstrates core web development skills, including layout design, styling, and interactive behavior through DOM manipulation.
